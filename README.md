@@ -8,6 +8,9 @@ Deep Learning nanodegree provided by Udacity.
 - Learn about Generative Adversarial Networks for image generation
 - AWS Sagemaker tool for deployment
 
+ **Environment Setup and more:**
+ > https://github.com/udacity/deep-learning-v2-pytorch/blob/master/README.md
+
  **Nanodegree Link:**
 > https://www.udacity.com/course/deep-learning-nanodegree--nd101
 
