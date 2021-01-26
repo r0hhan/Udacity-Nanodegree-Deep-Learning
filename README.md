@@ -11,5 +11,5 @@ Deep Learning nanodegree provided by Udacity.
  **Nanodegree Link:**
 > https://www.udacity.com/course/deep-learning-nanodegree--nd101
 
-## Deep Learning Nanodegree Certification
-![DLND certificate] (https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/64db8376-5ad5-4869-ae06-94b9687794d0.svg)
+## Deep Learning Nanodegree Certificate
+![Nanodegree Certificate](https://github.com/r0hhan/Udacity-Nanodegree-Deep-Learning/blob/main/certificate.png?raw=true)
